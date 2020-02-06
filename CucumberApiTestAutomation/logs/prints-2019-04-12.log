@@ -1,0 +1,5 @@
+16:48:52.073 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - /accounts/{accountid}/balances0001111101001
+16:48:53.199 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - the User Alice is registered with the bank
+16:48:54.659 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - /accounts/{accountid}/balances0001887788840
+16:53:02.241 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - the User Alice is registered with the bank
+16:53:04.994 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - /accounts/{accountid}/balances0001111101001

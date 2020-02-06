@@ -1,0 +1,4 @@
+15:18:58.488 [main] INFO  com.test.fcc.acceptence.utils.ReusableMethods - User FFDCDEV1 has access to corporate internal fund transfer for  Account Identifier 20
+15:18:59.579 [main] INFO  com.test.fcc.acceptence.utils.ReusableMethods - User FFDCDEV1 has access to third party fund transfer for  Account Identifier 12
+15:18:59.582 [main] INFO  com.test.fcc.acceptence.utils.ReusableMethods - User FFDCDEV1 has access to third party fund transfer for  Account Identifier 416
+15:19:00.871 [main] INFO  com.test.fcc.acceptence.utils.ReusableMethods - User FFDCDEV1 has access to third party fund transfer for  Account Identifier 122

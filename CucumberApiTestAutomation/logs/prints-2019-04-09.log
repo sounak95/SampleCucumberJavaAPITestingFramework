@@ -1,0 +1,5 @@
+04:17:26.104 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - the User Alice is registered with the bank
+04:17:27.448 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - /accounts/0001111101001
+04:17:29.298 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - the User Alice is registered with the bank
+04:17:30.970 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - /accounts/201924
+18:09:06.019 [main] INFO  stepdefinition.RetrieveAccountBalanceStep - the User Alice is registered with the bank

@@ -1,0 +1,4 @@
+21:20:33.807 [main] INFO  com.test.fcc.acceptence.utils.ReusableMethods - User FFDCDEV1 has access to third party fund transfer for  Account Identifier 12
+21:20:33.814 [main] INFO  com.test.fcc.acceptence.utils.ReusableMethods - User FFDCDEV1 has access to third party fund transfer for  Account Identifier 416
+21:20:35.082 [main] INFO  com.test.fcc.acceptence.utils.ReusableMethods - User FFDCDEV1 has access to third party fund transfer for  Account Identifier 122
+21:20:35.084 [main] INFO  com.test.fcc.acceptence.utils.ReusableMethods - User FFDCDEV1 has access to third party fund transfer for  Account Identifier 409

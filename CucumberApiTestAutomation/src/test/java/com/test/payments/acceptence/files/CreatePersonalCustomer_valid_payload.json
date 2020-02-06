@@ -1,0 +1,40 @@
+{
+   "branchCode": "0001",
+  "countryOfResidency": "US",
+  "addresses": [
+    {
+      "addressType": "RESIDENTIAL",
+      "buildingNumber": "122",
+      "country": "PH",
+      "line1": "9F Zuellig Building",
+      "line2": "Makati Avenue ",
+      "line3": "corner Paseo de Roxas,",
+      "line4": "Makati City,",
+      "line5": "US",
+      "postalCode": "1225"
+    }
+  ],
+
+  "dateOfBirth": "1977-01-01",
+  "emailAddresses": [
+    {
+      "address": "juandelacruz@gmail.com",
+      "type": "HOME"
+    }
+  ],
+  "firstName": "Juan",
+  "gender": "MALE",
+  "identification": {
+    "id": "2137616",
+    "type": "TXID"
+  },
+  "kycCheckRequired": "REQUIRED",
+  "lastName": "Dela Cruz",
+  "phoneNumbers": [
+    {
+      "number": "994348199",
+      "type": "MOBILE"
+    }
+  ],
+  "title": "Mr"
+}
